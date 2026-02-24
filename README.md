@@ -8,7 +8,7 @@ Linux practice for cybersecurity.
 I am learning Linux as part of my
 Google Cybersecurity Professional Certificate
 and other cybersecurity studies.
-
+.
 ## What This Repository Includes
 - Daily Linux practical exercises
 - Basic to intermediate Linux commands
