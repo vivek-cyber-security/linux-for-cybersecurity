@@ -3,7 +3,7 @@
 ## Objective
 The objective of this practical is to
 understand and practice basic Linux commands
-used in cybersecurity environments.
+used in cybersecurity environments
 
 I performed this practical using
 Ubuntu Linux on Windows (WSL).
