@@ -8,7 +8,7 @@
 
 ## Command 2: chown
 - Changes file owner
-- Used in access control
+- Used in access control.
 - Example:
   sudo chown vivek secret.txt
 
