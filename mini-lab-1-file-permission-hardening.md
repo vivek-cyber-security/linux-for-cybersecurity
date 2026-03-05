@@ -3,7 +3,7 @@
 ## Objective
 - Understand Linux file permissions
 - Secure sensitive files using chmod
-- Apply principle of least privilege
+- Apply principle of least privilege.
 
 ## Step 1: Create Sensitive File
 
