@@ -3,7 +3,7 @@
 ## Objective
 To study Linux user management, file permissions, and log analysis for cybersecurity.
 
-## Concepts Covered
+## Concepts Covered .
 - User & group management
 - File ownership & permissions
 - Authentication log analysis
