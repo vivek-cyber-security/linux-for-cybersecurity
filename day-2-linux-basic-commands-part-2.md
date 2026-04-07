@@ -82,11 +82,12 @@
 - Example:
   ps
 
+
 ## Command 22: ps aux
 - Shows all system processes
 - Used in SOC analysis
 - Example:
-  ps aux
+  ps aux.
 
 ## Command 23: top
 - Shows live system resource usage
